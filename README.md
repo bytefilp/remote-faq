@@ -3,6 +3,7 @@
 ### 社保篇
 
 - [大家都是如何交社保呢？](https://github.com/martinageradams/chinese-independent-developer-tips/issues/1)
+- [五险一金交不交都行吗？](https://www.zhihu.com/question/61657457)
 
 ### 外包篇
 
